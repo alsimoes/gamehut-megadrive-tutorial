@@ -13,3 +13,6 @@ https://www.youtube.com/watch?v=tdjVfl_YWd8&list=PLi29TNPrdbwLmUjiVvLLrRky7cXrlS
 
 3. Sonic's Crazy Ring Physics - I Show You How To Code
 https://www.youtube.com/watch?v=xVioUL1QBeM&list=PLi29TNPrdbwLmUjiVvLLrRky7cXrlSIYr
+
+4. Wanna Set Sonic on Fire? I Show You The Code To Do It...
+https://www.youtube.com/watch?v=rnCPBcSRt7Y&list=PLi29TNPrdbwLmUjiVvLLrRky7cXrlSIYr
